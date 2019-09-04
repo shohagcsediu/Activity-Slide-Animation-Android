@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Animation Activity</string>
+    <string name="next">Next</string>
+    <string name="second_activity">Second Activity!</string>
+    <string name="first_activity">First Activity!</string>
+    <string name="returna">Return</string>
+</resources>
